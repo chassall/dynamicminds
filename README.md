@@ -1,3 +1,5 @@
+Visit **[www.cameronhassall.com/dynamicminds](http://www.cameronhassall.com/dynamicminds)** 🚀
+
 
   ![on-push](../../actions/workflows/on-push.yaml/badge.svg)
   ![on-pull-request](../../actions/workflows/on-pull-request.yaml/badge.svg)
