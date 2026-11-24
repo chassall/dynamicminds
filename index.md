@@ -1,8 +1,6 @@
 ---
 ---
 
-# Dynamic Minds Lab
-
 The Dynamic Minds Lab, led by Dr. Cameron Hassall, explores how minds adapt, learn, and make decisions across a range of real-world contexts. Using tools from psychology, neuroscience, and cognitive science, the lab investigates the dynamic processes that shape human thought, behavior, and experience.
 
 {% include section.html %}
