@@ -1,218 +1,685 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/molbev/msag265
-  title: pendingpublications
+- id: doi:10.1111/psyp.70370
+  title: Song Familiarity Relies on Evidence Accumulation
+  authors:
+  - Jared R. Girard
+  - Aaron Bishop
+  - Cameron D. Hassall
+  publisher: Psychophysiology
+  date: '2026-07-31'
+  link: https://doi.org/hctt42
+  orcid: 0000-0001-9283-2813
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.64898/2026.04.13.718323
+  title: The Effects of Learnability and Reward Responsiveness on Reward Processing
+  authors:
+  - Abigail Oloriz
+  - Olave E. Krigolson
+  - Cameron D. Hassall
+  publisher: openRxiv
+  date: '2026-04-14'
+  link: https://doi.org/hctt43
+  orcid: 0000-0001-9283-2813
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2025.08.25.672171
+  title: Song familiarity relies on evidence accumulation
+  authors:
+  - Jared R. Girard
+  - Aaron Bishop
+  - Cameron D. Hassall
+  publisher: openRxiv
+  date: '2025-08-30'
+  link: https://doi.org/hctt44
+  orcid: 0000-0001-9283-2813
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/psyp.14589
+  title: Reward positivity affects temporal interval production in a continuous timing
+    task
+  authors:
+  - Yan Yan
+  - Laurence T. Hunt
+  - Cameron D. Hassall
+  publisher: Psychophysiology
+  date: '2024-04-14'
+  link: https://doi.org/gtwvgj
+  orcid: 0000-0001-9283-2813
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/psyp.14399
+  title: The neural correlates of continuous feedback processing
+  authors:
+  - Cameron D. Hassall
+  - Yan Yan
+  - Laurence T. Hunt
+  publisher: Psychophysiology
+  date: '2023-07-24'
+  link: https://doi.org/hctt45
+  orcid: 0000-0001-9283-2813
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.22541/au.168913444.41997938/v1
+  title: Reward positivity biases interval production in a continuous timing task
+  authors:
+  - Yan Yan
+  - Laurence Hunt
+  - Cameron Hassall
+  publisher: Wiley
+  date: '2023-07-12'
+  link: https://doi.org/hctt46
+  orcid: 0000-0001-9283-2813
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2023.07.06.548049
+  title: Reward positivity biases interval production in a continuous timing task
+  authors:
+  - Yan Yan
+  - Laurence Hunt
+  - Cameron Hassall
+  publisher: openRxiv
+  date: '2023-07-07'
+  link: https://doi.org/hctt47
+  orcid: 0000-0001-9283-2813
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1073/pnas.2214638119
+  title: Temporal scaling of human scalp-recorded potentials
+  authors:
+  - Cameron D. Hassall
+  - Jack Harley
+  - Nils Kolling
+  - Laurence T. Hunt
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2022-10-18'
+  link: https://doi.org/gszkm5
+  orcid: 0000-0001-9283-2813
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2022.10.06.511117
+  title: The Neural Correlates of Continuous Feedback Processing
+  authors:
+  - Cameron D. Hassall
+  - Yan Yan
+  - Laurence T. Hunt
+  publisher: openRxiv
+  date: '2022-10-07'
+  link: https://doi.org/hctt48
+  orcid: 0000-0001-9283-2813
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.neuroimage.2022.119456
+  title: Task-level value affects trial-level reward processing
+  authors:
+  - Cameron D. Hassall
+  - Laurence T. Hunt
+  - Clay B. Holroyd
+  publisher: NeuroImage
+  date: '2022-10-01'
+  link: https://doi.org/hctt49
+  orcid: 0000-0001-9283-2813
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.18112/OPENNEURO.DS004147.V1.0.0
+  title: Average Task Value
   authors: []
-  publisher: ''
-  date: ''
-  link: https://doi.org/hcpr59
-  orcid: 0000-0002-4655-3773
+  publisher: OpenNeuro
+  date: '2022-01-01'
+  link: https://doi.org/hctt5b
+  orcid: 0000-0001-9283-2813
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.patter.2026.101514
-  title: Scalable data harmonization for single-cell image-based profiling with CytoTable
-  authors:
-  - Dave Bunten
-  - Jenna Tomkinson
-  - Erik Serrano
-  - Michael J. Lippincott
-  - Kenneth I. Brewer
-  - Vince Rubinetti
-  - Faisal Alquaddoomi
-  - Gregory P. Way
-  publisher: Patterns
-  date: '2026-05-01'
-  link: https://doi.org/hbvg3p
-  orcid: 0000-0002-4655-3773
+- id: doi:10.18112/OPENNEURO.DS004262.V1.0.0
+  title: Continuous Feedback Processing
+  authors: []
+  publisher: OpenNeuro
+  date: '2022-01-01'
+  link: https://doi.org/hctt5c
+  orcid: 0000-0001-9283-2813
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2025.06.19.660613
-  title: Scalable data harmonization for single-cell image-based profiling with CytoTable
+- id: doi:10.18112/OPENNEURO.DS004152.V1.1.2
+  title: Drum Trainer
+  authors: []
+  publisher: OpenNeuro
+  date: '2022-01-01'
+  link: https://doi.org/hctt5d
+  orcid: 0000-0001-9283-2813
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.18112/OPENNEURO.DS004264.V1.0.0
+  title: Steer the Ship
+  authors: []
+  publisher: OpenNeuro
+  date: '2022-01-01'
+  link: https://doi.org/hctt5f
+  orcid: 0000-0001-9283-2813
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.18112/OPENNEURO.DS004200.V1.0.0
+  title: Temporal Scaling
+  authors: []
+  publisher: OpenNeuro
+  date: '2022-01-01'
+  link: https://doi.org/hctt5g
+  orcid: 0000-0001-9283-2813
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2021.09.16.460600
+  title: Task-Level Value Affects Trial-Level Reward Processing
   authors:
-  - Dave Bunten
-  - Jenna Tomkinson
-  - Erik Serrano
-  - Michael J. Lippincott
-  - Kenneth I. Brewer
-  - Vince Rubinetti
-  - Faisal Alquaddoomi
-  - Gregory P. Way
+  - Cameron D. Hassall
+  - Laurence T. Hunt
+  - Clay B. Holroyd
   publisher: openRxiv
-  date: '2025-06-25'
-  link: https://doi.org/g9rfr3
-  orcid: 0000-0002-4655-3773
+  date: '2021-09-17'
+  link: https://doi.org/hctt5h
+  orcid: 0000-0001-9283-2813
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: doi:10.31234/osf.io/s5r3m
+  title: Behavioural and neural indices of perceptual decision-making in autistic
+    children during visual motion tasks
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
+  - Catherine Manning
+  - Cameron Dale Hassall
+  - Laurence Hunt
+  - Anthony Norcia
+  - Eric-Jan Wagenmakers
+  - Nathan J. Evans
+  - Gaia Scerif
+  publisher: Center for Open Science
+  date: '2021-08-26'
+  link: https://doi.org/hctt5j
+  orcid: 0000-0001-9283-2813
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
+- id: doi:10.3390/g12030062
+  title: "Champ versus Chump: Viewing an Opponent\u2019s Face Engages Attention but\
+    \ Not Reward Systems"
   authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
+  - Ralph S. Redden
+  - Greg A. Gagliardi
+  - Chad C. Williams
+  - Cameron D. Hassall
+  - Olave E. Krigolson
+  publisher: Games
+  date: '2021-07-31'
+  link: https://doi.org/hctt5k
+  orcid: 0000-0001-9283-2813
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2021.05.26.21257878
+  title: 'Visual motion and decision-making in dyslexia: Evidence of reduced accumulation
+    of sensory evidence and related neural dynamics'
+  authors:
+  - Catherine Manning
+  - Cameron D. Hassall
+  - T. Hunt Laurence
+  - Anthony M. Norcia
+  - Eric-Jan Wagenmakers
+  - Margaret J. Snowling
+  - Gaia Scerif
+  - Nathan J. Evans
   publisher: openRxiv
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
+  date: '2021-05-30'
+  link: https://doi.org/hctt5m
+  orcid: 0000-0001-9283-2813
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.31234/osf.io/mk56x
+  title: "Champ versus Chump:  Viewing an Opponent\u2019s Face Engages Attention but\
+    \ Not Reward Systems"
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
+  - Ralph S. Redden
+  - Greg Gagliardi
+  - Chad Williams
+  - Cameron Dale Hassall
+  - Olave Krigolson
+  publisher: Center for Open Science
+  date: '2021-05-18'
+  link: https://doi.org/hctt5n
+  orcid: 0000-0001-9283-2813
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: doi:10.1101/2020.12.11.421180
+  title: Temporal scaling of human scalp-recorded potentials
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
+  - Cameron D. Hassall
+  - Jack Harley
+  - Nils Kolling
+  - Laurence T. Hunt
   publisher: openRxiv
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  date: '2020-12-11'
+  link: https://doi.org/gsxmcd
+  orcid: 0000-0001-9283-2813
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+- id: doi:10.1016/j.neuropsychologia.2020.107538
+  title: Feedback processing is enhanced following exploration in continuous environments
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
+  - Cameron D. Hassall
+  - Olave E. Krigolson
+  publisher: Neuropsychologia
+  date: '2020-09-01'
+  link: https://doi.org/hctt5p
+  orcid: 0000-0001-9283-2813
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
+- id: doi:10.31234/osf.io/6z75t
+  title: 'A win-win situation: Does familiarity with a social robot modulate feedback
+    monitoring and learning?'
   authors:
-  - Faisal S Alquaddoomi
-  - Joseph T Burke
-  - Lo Sosinski
-  - David A Mayer
-  - Evan P Brenner
-  - Samuel Z Chen
-  - Jacob D Krol
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: openRxiv
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
+  - Abdulaziz Abubshait
+  - Paul Beatty
+  - Craig McDonald
+  - Cameron Dale Hassall
+  - Olave Krigolson
+  - Eva Wiese
+  publisher: Center for Open Science
+  date: '2020-05-14'
+  link: https://doi.org/hctt5q
+  orcid: 0000-0001-9283-2813
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: doi:10.1016/j.biopsycho.2020.107849
+  title: Electroencephalographic evidence for a reinforcement learning advantage during
+    motor skill acquisition
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  - Francisco L. Colino
+  - Matthew Heath
+  - Cameron D. Hassall
+  - Olave E. Krigolson
+  publisher: Biological Psychology
+  date: '2020-03-01'
+  link: https://doi.org/gs7t24
+  orcid: 0000-0001-9283-2813
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.neulet.2019.134537
+  title: The impact of wellness on neural learning systems
+  authors:
+  - Francisco L. Colino
+  - Chad C. Williams
+  - Cameron D. Hassall
+  - Gordon Binsted
+  - Olave E. Krigolson
+  publisher: Neuroscience Letters
+  date: '2020-01-01'
+  link: https://doi.org/ggcrj2
+  orcid: 0000-0001-9283-2813
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3758/s13415-019-00730-2
+  title: The importance of agency in human reward processing
+  authors:
+  - Cameron D. Hassall
+  - Greg Hajcak
+  - Olave E. Krigolson
+  publisher: Cognitive, Affective, &amp; Behavioral Neuroscience
+  date: '2019-06-11'
+  link: https://doi.org/gf3tgc
+  orcid: 0000-0001-9283-2813
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s42113-019-00069-4
+  title: 'Reward Prediction Errors Reflect an Underlying Learning Process That Parallels
+    Behavioural Adaptations: A Trial-to-Trial Analysis'
+  authors:
+  - Chad C. Williams
+  - Cameron D. Hassall
+  - Talise Lindenbach
+  - Olave E. Krigolson
+  publisher: Computational Brain &amp; Behavior
+  date: '2019-10-18'
+  link: https://doi.org/g9n2w9
+  orcid: 0000-0001-9283-2813
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.brainres.2019.05.039
+  title: Ready, set, explore! Event-related potentials reveal the time-course of exploratory
+    decisions
+  authors:
+  - Cameron D. Hassall
+  - Craig G. McDonald
+  - Olave E. Krigolson
+  publisher: Brain Research
+  date: '2019-09-01'
+  link: https://doi.org/gf3d7b
+  orcid: 0000-0001-9283-2813
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.neuroimage.2019.01.048
+  title: 'Thinking theta and alpha: Mechanisms of intuitive and analytical reasoning'
+  authors:
+  - Chad C. Williams
+  - Mitchel Kappen
+  - Cameron D. Hassall
+  - Bruce Wright
+  - Olave E. Krigolson
+  publisher: NeuroImage
+  date: '2019-04-01'
+  link: https://doi.org/gfvqxw
+  orcid: 0000-0001-9283-2813
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ijpsycho.2018.03.006
+  title: 'Learning what matters: A neural explanation for the sparsity bias'
+  authors:
+  - Cameron D. Hassall
+  - Patrick C. Connor
+  - Thomas P. Trappenberg
+  - John J. McDonald
+  - Olave E. Krigolson
+  publisher: International Journal of Psychophysiology
+  date: '2018-05-01'
+  link: https://doi.org/gds4fc
+  orcid: 0000-0001-9283-2813
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/psyp.13081
+  title: "Alcohol hangover impacts learning and reward processing within the medial\u2010\
+    frontal cortex"
+  authors:
+  - Ashley D. Howse
+  - Cameron D. Hassall
+  - Chad C. Williams
+  - Greg Hajcak
+  - Olave E. Krigolson
+  publisher: Psychophysiology
+  date: '2018-03-30'
+  link: https://doi.org/gc9m49
+  orcid: 0000-0001-9283-2813
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1080/17470218.2015.1091849
+  title: 'We are More Selfish than We Think: The Endowment Effect and Reward Processing
+    within the Human Medial-Frontal Cortex'
+  authors:
+  - Cameron D. Hassall
+  - Amy Silver
+  - David J. Turk
+  - Olave E. Krigolson
+  publisher: Quarterly Journal of Experimental Psychology
+  date: '2016-09-01'
+  link: https://doi.org/gd32zz
+  orcid: 0000-0001-9283-2813
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.biopsycho.2017.09.007
+  title: 'When theory and biology differ: The relationship between reward prediction
+    errors and expectancy'
+  authors:
+  - Chad C. Williams
+  - Cameron D. Hassall
+  - Robert Trska
+  - Clay B. Holroyd
+  - Olave E. Krigolson
+  publisher: Biological Psychology
+  date: '2017-10-01'
+  link: https://doi.org/gdk3ph
+  orcid: 0000-0001-9283-2813
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1523/jneurosci.1073-17.2017
+  title: The Role of the Amygdala in Value-Based Learning
+  authors:
+  - Cameron D. Hassall
+  - Chad C. Williams
+  publisher: The Journal of Neuroscience
+  date: '2017-07-12'
+  link: https://doi.org/gd32zx
+  orcid: 0000-0001-9283-2813
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/fnins.2017.00109
+  title: 'Choosing MUSE: Validation of a Low-Cost, Portable EEG System for ERP Research'
+  authors:
+  - Olave E. Krigolson
+  - Chad C. Williams
+  - Angela Norton
+  - Cameron D. Hassall
+  - Francisco L. Colino
+  publisher: Frontiers in Neuroscience
+  date: '2017-03-10'
+  link: https://doi.org/gd32zw
+  orcid: 0000-0001-9283-2813
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1037/cep0000093
+  title: A preliminary investigation into the neural basis of the production effect.
+  authors:
+  - Cameron D. Hassall
+  - Chelsea K. Quinlan
+  - David J. Turk
+  - Tracy L. Taylor
+  - Olave E. Krigolson
+  publisher: "Canadian Journal of Experimental Psychology / Revue canadienne de psychologie\
+    \ exp\xE9rimentale"
+  date: '2016-06-01'
+  link: https://doi.org/f8sqbc
+  orcid: 0000-0001-9283-2813
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.brainres.2015.09.028
+  title: The impact of cognitive load on reward evaluation
+  authors:
+  - Olave E. Krigolson
+  - Cameron D. Hassall
+  - Jason Satel
+  - Raymond M. Klein
+  publisher: Brain Research
+  date: '2015-11-01'
+  link: https://doi.org/f73g6q
+  orcid: 0000-0001-9283-2813
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/fnhum.2015.00335
+  title: 'Using brain potentials to understand prism adaptation: the error-related
+    negativity and the P300'
+  authors:
+  - Stephane J. MacLean
+  - Cameron D. Hassall
+  - Yoko Ishigami
+  - Olav E. Krigolson
+  - Gail A. Eskes
+  publisher: Frontiers in Human Neuroscience
+  date: '2015-06-12'
+  link: https://doi.org/gd32z2
+  orcid: 0000-0001-9283-2813
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.bbr.2014.10.012
+  title: 'The unidirectional prosaccade switch-cost: Electroencephalographic evidence
+    of task-set inertia in oculomotor control'
+  authors:
+  - Jeffrey Weiler
+  - Cameron D. Hassall
+  - Olave E. Krigolson
+  - Matthew Heath
+  publisher: Behavioural Brain Research
+  date: '2015-02-01'
+  link: https://doi.org/f6v59v
+  orcid: 0000-0001-9283-2813
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.neuroscience.2015.10.018
+  title: 'Event-related brain potentials during the visuomotor mental rotation task:
+    The contingent negative variation scales to angle of rotation'
+  authors:
+  - M. Heath
+  - C.D. Hassall
+  - S. MacLean
+  - O.E. Krigolson
+  publisher: Neuroscience
+  date: '2015-12-01'
+  link: https://doi.org/f73f7r
+  orcid: 0000-0001-9283-2813
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1080/00222895.2014.918021
+  title: 'Hierarchical Error Evaluation: The Role of Medial-Frontal Cortex in Postural
+    Control'
+  authors:
+  - Cameron D. Hassall
+  - Stephane MacLean
+  - Olave E. Krigolson
+  publisher: Journal of Motor Behavior
+  date: '2014-09-10'
+  link: https://doi.org/gd32z3
+  orcid: 0000-0001-9283-2813
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1167/14.10.1283
+  title: Hot or Not? Perceived Attractiveness Activates Reward Processes Within Medial-Frontal
+    Cortex
+  authors:
+  - O. Krigolson
+  - S. Whitaker
+  - L. MacKenzie
+  - C. Hassall
+  publisher: Journal of Vision
+  date: '2014-08-22'
+  link: https://doi.org/hctt5r
+  orcid: 0000-0001-9283-2813
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1167/14.10.96
+  title: 'Unidirectional switch-costs in oculomotor control are a result of a stimulus-response
+    updating: Evidence from electroencephalography'
+  authors:
+  - J. Weiler
+  - C. Hassall
+  - O. Krigolson
+  - M. Heath
+  publisher: Journal of Vision
+  date: '2014-08-22'
+  link: https://doi.org/hctt5s
+  orcid: 0000-0001-9283-2813
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1162/jocn_a_00509
+  title: 'How We Learn to Make Decisions: Rapid Propagation of Reinforcement Learning
+    Prediction Errors in Humans'
+  authors:
+  - Olav E. Krigolson
+  - Cameron D. Hassall
+  - Todd C. Handy
+  publisher: Journal of Cognitive Neuroscience
+  date: '2014-03-01'
+  link: https://doi.org/gd32z4
+  orcid: 0000-0001-9283-2813
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1167/13.9.794
+  title: Camera-based eye tracking improves the signal-to-noise ratio of EEG
+  authors:
+  - J. Satel
+  - C. Hassall
+  - O. Krigolson
+  - R. Klein
+  publisher: Journal of Vision
+  date: '2013-07-25'
+  link: https://doi.org/hctt5t
+  orcid: 0000-0001-9283-2813
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1167/13.9.663
+  title: 'More Blobs: A Training Study Examining the Role of Medial-Frontal Cortex
+    in the Development of Perceptual Expertise'
+  authors:
+  - O. Krigolson
+  - H. Gallant
+  - C. Hassall
+  publisher: Journal of Vision
+  date: '2013-07-25'
+  link: https://doi.org/hctt5v
+  orcid: 0000-0001-9283-2813
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1167/13.9.793
+  title: Online Ocular Artifact Detection and Rejection
+  authors:
+  - C. Hassall
+  - C. Michaud
+  - O. Krigolson
+  publisher: Journal of Vision
+  date: '2013-07-25'
+  link: https://doi.org/hctt5w
+  orcid: 0000-0001-9283-2813
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1167/13.9.352
+  title: 'The P300 component and the visuomotor mental rotation task: context-updating
+    scales to angle of rotation'
+  authors:
+  - M. Heath
+  - S. Maclean
+  - C. Hassall
+  - O. Krigolson
+  publisher: Journal of Vision
+  date: '2013-07-25'
+  link: https://doi.org/hctt5x
+  orcid: 0000-0001-9283-2813
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3758/s13415-012-0144-4
+  title: Perceived ownership impacts reward evaluation within medial-frontal cortex
+  authors:
+  - Olave E. Krigolson
+  - Cameron D. Hassall
+  - Lynsey Balcom
+  - David Turk
+  publisher: Cognitive, Affective, &amp; Behavioral Neuroscience
+  date: '2013-01-03'
+  link: https://doi.org/gd32z5
+  orcid: 0000-0001-9283-2813
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.neuroscience.2012.10.040
+  title: What do I do now? An electroencephalographic investigation of the explore/exploit
+    dilemma
+  authors:
+  - C.D. Hassall
+  - K. Holland
+  - O.E. Krigolson
+  publisher: Neuroscience
+  date: '2013-01-01'
+  link: https://doi.org/f4j5r4
+  orcid: 0000-0001-9283-2813
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/1979742.1979724
+  title: Performance
+  authors:
+  - Bob Pritchard
+  - Sid Fels
+  - Nicolas d'Alessandro
+  - Marguerite Witvoet
+  - Johnty Wang
+  - Cameron Hassall
+  - Helene Day-Fraser
+  - Meryn Cadell
+  publisher: CHI '11 Extended Abstracts on Human Factors in Computing Systems
+  date: '2011-05-07'
+  link: https://doi.org/cbrjxj
+  orcid: 0000-0001-9283-2813
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1121/1.3385277
+  title: Developing vowel mappings for an interactive voice synthesis system controlled
+    by hand motions.
+  authors:
+  - Karl I. Nordstrom
+  - Sidney Fels
+  - Cameron D. Hassall
+  - Bob Pritchard
+  publisher: The Journal of the Acoustical Society of America
+  date: '2010-03-01'
+  link: https://doi.org/b4k44c
+  orcid: 0000-0001-9283-2813
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
@@ -228,9 +695,6 @@
   publisher: PLOS Computational Biology
   date: '2020-12-04'
   link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -247,21 +711,8 @@
   - open science
   - collaboration
   repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: openRxiv
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
