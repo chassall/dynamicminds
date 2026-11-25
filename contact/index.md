@@ -7,27 +7,19 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Please do get in touch with any questions about our work, or if you're interested in joining the lab as a research assistant, independent-study student, or honours student.
 
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
-%}
-{%
-  include button.html
-  type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
+  text="hassallc@macewan.ca"
+  link="hassallc@macewan.ca"
 %}
 {%
   include button.html
   type="address"
-  tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  tooltip="Find us on the third floor of Building 6 at MacEwan University"
+  link="https://maps.app.goo.gl/TSZHm36HytUuZK8T8"
 %}
 
 {% include section.html %}
