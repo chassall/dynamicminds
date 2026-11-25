@@ -9,7 +9,7 @@ The Dynamic Minds Lab, led by Dr. Cameron Hassall, explores how minds adapt, lea
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Published research on the neural basis of learning and decision-making.
 
 {%
   include button.html
@@ -24,7 +24,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/participant.jpg"
   link="research"
   title="Our Research"
   text=text
@@ -32,7 +32,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Current student projects.
 
 {%
   include button.html
@@ -47,7 +47,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/decisionmakingtask.jpg"
   link="projects"
   title="Our Projects"
   flip=true
