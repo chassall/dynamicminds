@@ -17,6 +17,7 @@
   subtitle: How does visual imagery support perceptual learning?
   image: images/imagery.jpeg
   description: Here we plan to have participants reactivate a visual memory during learning. To highlight a specific role of imagery, we plan to test people with imagery deficits (i.e., those with aphantasia). 
+
 - title: Face Morphing
   subtitle: How does the brain track dynamic faces? 
   image: images/facemorph.jpeg
@@ -32,13 +33,13 @@
   image: images/nearorfar.jpeg
   description: In the real world, close rewards are better than distant rewards, yet reward proximity is seldom studied in the lab. Here we recorded EEG and rewarded participants while they made distance judgements about near and far items.
 
-- title: Patch Foraging
-  subtitle: How does the frontal cortex support foraging decisions?
-  image: images/applepicker.jpeg
-  description: Frontal cortex is thought to support exploration by breaking us out of an exploitative mode of decision-making to "try something new". Here we are asking whether this process depends on costs associated with diffent decision types (i.e., to remain at or leave a patch).
+- title: Retinopathy
+  subtitle: Do medical decisions rely on evidence accumulation?
+  image: images/retinopathy.jpeg
+  description: When making judgements about artificial stimuli, people accumulate evidence until a decision threshold is reached. Our goal here is to show that evidence accumulation is also used when people make real-world decisions such as medical diagnoses.
 
-- title: Patch Foraging
-  subtitle: How does the frontal cortex support foraging decisions?
-  image: images/applepicker.jpeg
-  description: Frontal cortex is thought to support exploration by breaking us out of an exploitative mode of decision-making to "try something new". Here we are asking whether this process depends on costs associated with diffent decision types (i.e., to remain at or leave a patch).
+- title: Urgent Bandit
+  subtitle: How does urgency affect decision-making?
+  image: images/urgentbandit.jpeg
+  description: Time pressue is thought to impair cognitive control. Here was ask whether it alters decision-making, e.g. by shifting people away from a more deliberate to a more automatic strategy.
 
