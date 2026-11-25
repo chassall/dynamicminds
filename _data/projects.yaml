@@ -21,25 +21,30 @@
 - title: Face Morphing
   subtitle: How does the brain track dynamic faces? 
   image: images/facemorph.jpeg
-  description: Faces are usually studied using static images. However, real-world faces move. In this experiment we plan to measure and carefully quantify the brain's response to a continuously changing face (e.g., one that morphs between two emotions).
+  description: Real-world faces are dynamic. In this experiment we plan to measure and carefully quantify the brain's response to a continuously changing face (e.g., one that morphs between two emotions).
 
 - title: Narrative Structure
   subtitle: How does narrative affect reward processing?
   image: images/narrative.jpeg
-  description: In this experiment, participants place a "Choose Your Own Adveture" style game in which they made decisions and experienced outcomes. We are predicting that reward processing will be enhanced when those rewards occur within narrative.
+  description: Here, participants played a "Choose Your Own Adveture" style game in which they made decisions and experienced outcomes. We predict reward processing will be enhanced relative to a nonnarrative condition.
 
 - title: Near or Far
   subtitle: Do reward responses depend on reward proximity?
   image: images/nearorfar.jpeg
-  description: In the real world, close rewards are better than distant rewards, yet reward proximity is seldom studied in the lab. Here we recorded EEG and rewarded participants while they made distance judgements about near and far items.
+  description: In the real world, close rewards are better than distant rewards. Here we recorded EEG and rewarded participants while they made distance judgements about near and far items.
 
 - title: Retinopathy
   subtitle: Do medical decisions rely on evidence accumulation?
   image: images/retinopathy.jpeg
-  description: When making judgements about artificial stimuli, people accumulate evidence until a decision threshold is reached. Our goal here is to show that evidence accumulation is also used when people make real-world decisions such as medical diagnoses.
+  description: When making judgements about artificial stimuli, people accumulate evidence up to a decision threshold. Our goal here is to show that this process also applies for real-world decisions such as medical diagnoses.
 
 - title: Urgent Bandit
   subtitle: How does urgency affect decision-making?
   image: images/urgentbandit.jpeg
   description: Time pressue is thought to impair cognitive control. Here was ask whether it alters decision-making, e.g. by shifting people away from a more deliberate to a more automatic strategy.
+
+- title: Value Flanker
+  subtitle: How does error processing interact with reward processing?
+  image: images/valueflanker.jpeg
+  description: Here we designed a new task to test error processing and feedback processing. We predict that indivisuals who are more focused on their errors will respond less to external feedback (and vice-versa).
 
