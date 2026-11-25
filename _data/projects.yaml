@@ -1,7 +1,7 @@
 - title: Audiovisual Feedback
   subtitle: How is audiovisual feedback processed?
   image: images/doorsounds.jpeg
-  description: We respond rapidly to audiovisual cues. What about audiovisual feedback? Our goal here is to test the effect of feedback modality on behavioural and neural responses.
+  description: Our goal here is to test the effect of feedback modality on behavioural and neural responses. We are predicting that audiovisual feedback will elicit faster brain and behavioural responses.
 
 - title: Patch Foraging
   subtitle: How does the frontal cortex support foraging decisions?
@@ -11,17 +11,16 @@
 - title: Task Learnability
   subtitle: Why is it important for people to feel like they're making progress?
   image: images/differentdoors.jpeg
-  description: Which is more fun, roulette or blackjack? In this project we aim to show that learnable tasks like blackjack are more fun and motivating. We will show this by comparing brain responses to rewards across learnable and unlearnable gambling tasks.
+  description: Which is more fun, roulette or blackjack? In this project we hope to answer this question by comparing brain responses to rewards across learnable and unlearnable gambling tasks.
 
-- title: Patch Foraging
-  subtitle: How does the frontal cortex support foraging decisions?
-  image: images/applepicker.jpeg
-  description: Frontal cortex is thought to support exploration by breaking us out of an exploitative mode of decision-making to "try something new". Here we are asking whether this process depends on costs associated with diffent decision types (i.e., to remain at or leave a patch).
-
-- title: Patch Foraging
-  subtitle: How does the frontal cortex support foraging decisions?
-  image: images/applepicker.jpeg
-  description: Frontal cortex is thought to support exploration by breaking us out of an exploitative mode of decision-making to "try something new". Here we are asking whether this process depends on costs associated with diffent decision types (i.e., to remain at or leave a patch).
+- title: Visual Imagery
+  subtitle: How does visual imagery support perceptual learning?
+  image: images/imagery.jpeg
+  description: Here we plan to have participants reactivate a visual memory during learning. To highlight a specific role of imagery, we plan to test people with imagery deficits (i.e., those with aphantasia). 
+- title: Face Morphing
+  subtitle: How does the brain track dynamic faces? 
+  image: images/facemorph.jpeg
+  description: Faces are usually studied using static images. However, real-world faces move. In this experiment we plan to measure and carefully quantify the brain's response to a continuously changing face (e.g., one that morphs between two emotions).
 
 - title: Patch Foraging
   subtitle: How does the frontal cortex support foraging decisions?
