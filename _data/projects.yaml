@@ -1,7 +1,12 @@
-- title: Door Sounds
+- title: Audiovisual Feedback
   subtitle: How is audiovisual feedback processed?
-  image: images/doorsounds.jpg
+  image: images/doorsounds.jpeg
   description: We respond rapidly to audiovisual cues. What about audiovisual feedback? Our goal here is to test the effect of feedback modality on behavioural and neural responses.
+
+- title: Patch Foraging
+  subtitle: How does the frontal cortex support foraging decisions?
+  image: images/applepicker.jpeg
+  description: Frontal cortex is thought to support exploration by breaking us out of an exploitative mode of decision-making to "try something new". Here we are asking whether this process depends on costs associated with diffent decision types (i.e., to remain at or leave a patch).
 
 - title: Cool Dataset
   subtitle: a subtitle
