@@ -9,4 +9,4 @@ nav:
 
 {% include section.html %}
 
-{% include list.html data="citations" component="citation" style="rich" %}
+{% include list.html data="citations" component="citation" filter="publisher != 'OpenNeuro'" style="rich" %}
