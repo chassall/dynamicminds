@@ -11,8 +11,8 @@ Meet the team! MacEwan is an undergraduate-only university, and our lab comprise
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filter="role == 'pi'" %}
-{% include list.html data="members" component="portrait" filter="role != 'pi'" %}
+{% include list.html data="members" component="portrait" filter="role == 'principal-investigator'" %}
+{% include list.html data="members" component="portrait" filter="role == 'undergrad'" %}
 
 # Lab Alumni
 Abby Oloriz, BSc (Resource Specialist, Psychologists' Association of Alberta)
