@@ -11,4 +11,4 @@ Here's a list of publicly available EEG datasets.
 
 {% include section.html %}
 
-{% include list.html data="citations" publisher="OpenNeuro" component="citation" style="rich" %}
+{% include list.html data="citations" filter="publisher = 'OpenNeuro'" component="citation" style="rich" %}
