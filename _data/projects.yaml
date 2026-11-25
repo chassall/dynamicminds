@@ -6,52 +6,40 @@
 - title: Patch Foraging
   subtitle: How does the frontal cortex support foraging decisions?
   image: images/applepicker.jpeg
+  description: Frontal cortex is thought to support exploration by forcing us to "try something new". Here we are asking whether this process depends on costs associated with diffent decision types.
+
+- title: Task Learnability
+  subtitle: Why is it important for people to feel like they're making progress?
+  image: images/differentdoors.jpeg
+  description: Which is more fun, roulette or blackjack? In this project we aim to show that learnable tasks like blackjack are more fun and motivating. We will show this by comparing brain responses to rewards across learnable and unlearnable gambling tasks.
+
+- title: Patch Foraging
+  subtitle: How does the frontal cortex support foraging decisions?
+  image: images/applepicker.jpeg
   description: Frontal cortex is thought to support exploration by breaking us out of an exploitative mode of decision-making to "try something new". Here we are asking whether this process depends on costs associated with diffent decision types (i.e., to remain at or leave a patch).
 
-- title: Cool Dataset
-  subtitle: a subtitle
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
+- title: Patch Foraging
+  subtitle: How does the frontal cortex support foraging decisions?
+  image: images/applepicker.jpeg
+  description: Frontal cortex is thought to support exploration by breaking us out of an exploitative mode of decision-making to "try something new". Here we are asking whether this process depends on costs associated with diffent decision types (i.e., to remain at or leave a patch).
 
-- title: Cool Package
-  subtitle: a subtitle
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
+- title: Patch Foraging
+  subtitle: How does the frontal cortex support foraging decisions?
+  image: images/applepicker.jpeg
+  description: Frontal cortex is thought to support exploration by breaking us out of an exploitative mode of decision-making to "try something new". Here we are asking whether this process depends on costs associated with diffent decision types (i.e., to remain at or leave a patch).
 
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-    - publication
+- title: Patch Foraging
+  subtitle: How does the frontal cortex support foraging decisions?
+  image: images/applepicker.jpeg
+  description: Frontal cortex is thought to support exploration by breaking us out of an exploitative mode of decision-making to "try something new". Here we are asking whether this process depends on costs associated with diffent decision types (i.e., to remain at or leave a patch).
 
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
+- title: Patch Foraging
+  subtitle: How does the frontal cortex support foraging decisions?
+  image: images/applepicker.jpeg
+  description: Frontal cortex is thought to support exploration by breaking us out of an exploitative mode of decision-making to "try something new". Here we are asking whether this process depends on costs associated with diffent decision types (i.e., to remain at or leave a patch).
 
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
+- title: Patch Foraging
+  subtitle: How does the frontal cortex support foraging decisions?
+  image: images/applepicker.jpeg
+  description: Frontal cortex is thought to support exploration by breaking us out of an exploitative mode of decision-making to "try something new". Here we are asking whether this process depends on costs associated with diffent decision types (i.e., to remain at or leave a patch).
+
