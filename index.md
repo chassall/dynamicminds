@@ -33,6 +33,7 @@ We use a variety of methods to study the neural basis of learning and decision-m
 {% capture text %}
 
 Current student projects on a range of topics:
+
 - Decision-making and reinforcement learning
 - Feedback and reward processing
 - Computational modeling of cognition
