@@ -1,6 +1,6 @@
 ---
 name: Alexis Knee
-image: images/photo.jpg
+image: images/alexis.jpeg
 role: undergrad
 ---
 
