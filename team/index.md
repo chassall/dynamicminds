@@ -18,5 +18,8 @@ Meet the team! MacEwan is an undergraduate-only university, and our lab comprise
 Ela Trivino, BSc\
 Jared Girard, BSc\
 Abby Oloriz, BSc (Resource Specialist, Psychologists' Association of Alberta)\
+Daniel Platt, BSc\
+Malcolm Nielsen, BSc (MSc Student in Computing Science, University of Alberta)\
+Ryan Vieira, BSc (Software Developer, Benchmark Data Solutions)\
 Avery Hudson, BSc (Behavioural Therapist, Edmonton Public Schools)
 
