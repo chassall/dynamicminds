@@ -24,6 +24,24 @@
   orcid: 0000-0001-9283-2813
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.18112/OPENNEURO.DS007647.V1.0.0
+  title: Different Doors
+  authors: []
+  publisher: OpenNeuro
+  date: '2026-01-01'
+  link: https://doi.org/hctxgr
+  orcid: 0000-0001-9283-2813
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.18112/OPENNEURO.DS007968.V1.0.0
+  title: Narrative Reward
+  authors: []
+  publisher: OpenNeuro
+  date: '2026-01-01'
+  link: https://doi.org/hctw8d
+  orcid: 0000-0001-9283-2813
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/2025.08.25.672171
   title: Song familiarity relies on evidence accumulation
   authors:
@@ -33,6 +51,15 @@
   publisher: openRxiv
   date: '2025-08-30'
   link: https://doi.org/hctt44
+  orcid: 0000-0001-9283-2813
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.18112/OPENNEURO.DS005876.V1.0.1
+  title: Song Familiarity
+  authors: []
+  publisher: OpenNeuro
+  date: '2025-01-01'
+  link: https://doi.org/hctt6f
   orcid: 0000-0001-9283-2813
   plugin: orcid.py
   file: orcid.yaml
@@ -682,11 +709,3 @@
   orcid: 0000-0001-9283-2813
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.18112/openneuro.ds005876.v1.0.1
-  title: Song Familiarity
-  authors: []
-  publisher: OpenNeuro
-  date: '2025-01-01'
-  link: https://doi.org/hctt6f
-  plugin: sources.py
-  file: sources.yaml
