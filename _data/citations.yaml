@@ -688,6 +688,5 @@
   publisher: OpenNeuro
   date: '2025-01-01'
   link: https://doi.org/hctt6f
-  image: https://openneuro.org/assets/eeg-tqqTGurn.jpg
   plugin: sources.py
   file: sources.yaml
