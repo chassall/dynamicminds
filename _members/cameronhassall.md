@@ -5,6 +5,7 @@ role: principal-investigator
 affiliation: MacEwan University
 links:
   home-page: https://www.cameronhassall.com
+  github: john-doe
   orcid: 0000-0001-9283-2813
 ---
 
