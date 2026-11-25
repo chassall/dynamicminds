@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Please do get in touch with any questions about our work, or if you're interested in joining the lab as a research assistant, independent-study student, or honours student.
+Please get in touch with any questions about our work, or if you're interested in joining the lab as a research assistant, independent-study student, or honours student.
 
 {%
   include button.html
@@ -24,4 +24,4 @@ Please do get in touch with any questions about our work, or if you're intereste
 
 {% include section.html %}
 
-![At BASICS 2026 in Canmore, AB]({% link images/basics_2026.jpg %})
+![A cartoon EEG cap on a desk.]({% cartoon_cap.png %})
