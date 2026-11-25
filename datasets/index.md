@@ -8,3 +8,7 @@ nav:
 # {% include icon.html icon="fa-solid fa-wrench" %}Datasets
 
 Here's a list of publicly available EEG datasets.
+
+{% include section.html %}
+
+{% include list.html data="citations" publisher="OpenNeuro" component="citation" style="rich" %}
