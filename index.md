@@ -56,8 +56,7 @@ Current student projects.
 %}
 
 {% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our work wouldn't be possible without the help of many dedicated undergraduate research assistants. Come meet our team of honours students and research assistants!
 
 {%
   include button.html
@@ -72,7 +71,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/basics_2026.jpg"
   link="team"
   title="Our Team"
   text=text
