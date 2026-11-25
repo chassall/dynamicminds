@@ -15,6 +15,8 @@ Meet the team! MacEwan is an undergraduate-only university, and our lab comprise
 {% include list.html data="members" component="portrait" filter="role == 'undergrad'" %}
 
 ## Lab Alumni
--Abby Oloriz, BSc (Resource Specialist, Psychologists' Association of Alberta)
--Avery Hudson, BSc (Behavioural Therapist, Edmonton Public Schools)
+Ela Trivino, BSc\
+Jared Girard, BSc\
+Abby Oloriz, BSc (Resource Specialist, Psychologists' Association of Alberta)\
+Avery Hudson, BSc (Behavioural Therapist, Edmonton Public Schools)
 
