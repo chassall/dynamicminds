@@ -3,6 +3,10 @@ name: Cameron Hassall
 image: images/dr_cameron_hassall.jpg
 role: principal-investigator
 affiliation: MacEwan University
+aliases:
+  - C.D. Hassall
+  - Cameron D. Hassall
+  - CD Hassall
 links:
   home-page: https://www.cameronhassall.com
   github: john-doe
