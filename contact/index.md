@@ -24,4 +24,4 @@ Please get in touch with any questions about our work, or if you're interested i
 
 {% include section.html %}
 
-![A cartoon EEG cap on a desk.]({% cartoon_cap.png %})
+{% include figure.html image="images/cartoon_cap.png" %}
