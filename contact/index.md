@@ -24,16 +24,14 @@ Our lab is located within the [Department of Psychology](https://www.macewan.ca/
 
 {% include section.html %}
 
-{% include figure.html image="images/cartoon_cap.png" %}
-
 {% capture col1 %}
 
-{% include figure.html image="images/photo.jpg" caption="Lorem ipsum" %}
+{% include figure.html image="images/edmonton.jpg" caption="Downtown Edmonton" %}
 
 {% endcapture %}
 
 {% capture col2 %}
 
-{% include figure.html image="images/photo.jpg" caption="Lorem ipsum" %}
+{% include figure.html image="images/macewan.jpg" caption="MacEwan University" %}
 
 {% endcapture %}
