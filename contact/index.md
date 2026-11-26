@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Our lab is located within the [Department of Psychology](www.macewan.ca/academics/academic-departments/psychology/) at [MacEwan University](www.macewan.ca). We are also part of the [Cognition and Neuroscience Research Group](www.macewan.ca/about-macewan/research/faculty-research/research-institutes-centres-groups/cognition-neuroscience-research-group/). Please get in touch with any questions about our work, or if you're interested in joining the lab as a research assistant, independent-study student, or honours student.
+Our lab is located within the [Department of Psychology](https://www.macewan.ca/academics/academic-departments/psychology/) at [MacEwan University](https://www.macewan.ca). We are also part of the [Cognition and Neuroscience Research Group](https://www.macewan.ca/about-macewan/research/faculty-research/research-institutes-centres-groups/cognition-neuroscience-research-group/). Please get in touch with any questions about our work, or if you're interested in joining the lab as a research assistant, independent-study student, or honours student.
 
 {%
   include button.html
