@@ -35,3 +35,5 @@ Our lab is located within the [Department of Psychology](https://www.macewan.ca/
 {% include figure.html image="images/macewan.jpg" caption="MacEwan University" %}
 
 {% endcapture %}
+
+{% include cols.html col1=col1 col2=col2 %}
