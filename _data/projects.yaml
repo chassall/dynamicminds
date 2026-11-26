@@ -42,8 +42,6 @@
   subtitle: How does urgency affect decision-making?
   image: images/urgentbandit.jpeg
   description: Time pressue is thought to impair cognitive control. Here was ask whether it alters decision-making, e.g. by shifting people away from a more deliberate to a more automatic strategy.
-  authors:
-  - Alexis Knee
 
 - title: Value Flanker
   subtitle: How does error processing interact with reward processing?
