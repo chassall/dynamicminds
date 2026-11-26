@@ -2,6 +2,7 @@
 name: Alexis Knee
 image: images/alexis.jpeg
 role: undergrad
+affiliation: MacEwan University
 links:
   linkedin: alexis-l-knee-98825230a
   instagram: alexis_knee
