@@ -9,7 +9,7 @@ aliases:
   - CD Hassall
 links:
   home-page: https://www.cameronhassall.com
-  github: john-doe
+  github: chassall
   orcid: 0000-0001-9283-2813
 ---
 
