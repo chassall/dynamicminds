@@ -1,6 +1,6 @@
 ---
 name: Lily Bussiere
-image: images/photo.jpg
+image: images/lily.jpg
 role: undergrad
 affiliation: MacEwan University
 ---
